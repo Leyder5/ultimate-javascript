@@ -7,4 +7,4 @@ let noDefinido;                 // undefined (no se le asignó valor)
 let undef = undefined;          // undefined asignado de forma explícita
 let nulo = null;                // null: "tiene valor, y su valor es nada"
 
-console.log(numero, texto, verdadero, falso, noDefinido, undef, nulo);
+

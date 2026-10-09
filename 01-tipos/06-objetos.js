@@ -1,5 +1,9 @@
 // Lección 13: Objetos
-// Agrupan datos que tiene sentido tener juntos (pares llave: valor)
+
+let nombre= "Tanjiro";
+let anime = "Demon Slayer";
+let edad = 16;
+
 let personaje = {
     nombre: 'Tanjiro',
     anime: 'Demon Slayer',

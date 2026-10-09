@@ -1,5 +1,12 @@
 // Lección 23: Short circuit
-// Valores falsy: false, 0, '', null, undefined, NaN (todo lo demás es truthy)
+// Valores falsy: 
+// false
+// falso
+// 0
+// ''
+// null
+// undefined
+// NaN 
 
 // OR devuelve el primer valor truthy
 let nombre = 'Chanchito feliz';   // prueba también con ''

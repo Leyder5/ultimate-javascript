@@ -1,4 +1,6 @@
-// Lección 24: Operadores bitwise (opcional)
+// Lección 24: Operadores bitwise
+// Decimal: 0,1,2,3,4,5,6,7,8,9
+// Binario: 0 1
 // 1 = 00000001
 // 2 = 00000010
 // 3 = 00000011

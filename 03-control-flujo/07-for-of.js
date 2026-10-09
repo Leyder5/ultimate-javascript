@@ -9,5 +9,5 @@ for (let animal of animales) {
 let i = 0;
 while (i < animales.length) {
     console.log(animales[i]);
-    i++;
+    i++; //para no entrar en un loop infinito
 }

@@ -1,5 +1,5 @@
 // Lección 17: Declaraciones y expresiones
-// (Esta clase no tiene subtítulos en Udemy; resumen del tema)
+
 
 // Declaración (statement): una instrucción completa, por ejemplo crear una variable
 let a = 5;

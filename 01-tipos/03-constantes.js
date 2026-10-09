@@ -1,9 +1,9 @@
 // Lección 10: Constantes
-let nombre = 'Hola mundo';
-nombre = 'Chanchito feliz';     // con let SÍ se puede reasignar
+let nombre = "Hola mundo";
+nombre = "Chanchito feliz";     // con let SÍ se puede reasignar
 console.log(nombre);
 
-const saludo = 'Hola mundo';
+const saludo = "Hola mundo";
 // saludo = 'Chanchito feliz';  // TypeError: Assignment to constant variable.
 console.log(saludo);
 

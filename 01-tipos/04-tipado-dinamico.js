@@ -15,4 +15,4 @@ console.log(typeof numero);     // number
 console.log(typeof nombre);     // string
 console.log(typeof verdadero);  // boolean
 console.log(typeof undef);      // undefined
-console.log(typeof nula);       // object  <- curiosidad histórica de JS
+console.log(typeof nula);       // object  
