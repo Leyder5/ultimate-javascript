@@ -14,7 +14,7 @@ console.log(divididos);   // [ 2, 3 ]
 // sin el segundo argumento toma desde el índice hasta el final
 console.log(combinados.slice(1));   // [ 2, 3, 4 ]
 
-// sin argumentos genera una copia del array (no es una referencia)
+// sin argumentos genera una copia del array 
 const copia = combinados.slice();
 console.log(copia, copia === combinados);   // [ 1, 2, 3, 4 ] false
 

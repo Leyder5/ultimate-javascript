@@ -1,12 +1,4 @@
-// Lección 61: Date
-// Objeto para trabajar con fechas
 
-// fecha actual de nuestra máquina local
-// (si el computador tiene la fecha cambiada, se refleja aquí)
-// const ahora = new Date();
-// console.log(ahora);
-
-// con un string en formato de Estados Unidos: mes día año hora zona horaria
 const fecha = new Date('December 11 1986 14:15 GMT-0300');
 console.log(fecha);   // se muestra en la zona horaria de tu computador
 
@@ -16,7 +8,6 @@ const fecha2 = new Date(1986, 11, 25, 14, 15);
 console.log(fecha2);
 
 // para pasar la hora a otra zona horaria se suma la diferencia horaria
-// (el profe está en Nueva Zelanda GMT+12 y Chile es GMT-3: diferencia de 15)
 // 14 + 15 = 29 -> JavaScript le resta 24 y pasa al día siguiente (26, a las 5)
 const fecha3 = new Date(1986, 11, 25, 14 + 15, 15);
 console.log(fecha3);

@@ -1,7 +1,3 @@
-// Lección 54: Funciones
-// Las funciones también son objetos, y objetos de primera clase:
-// se pueden asignar a variables, pasar como argumentos,
-// retornar desde otras funciones y además tienen propiedades
 
 function Usuario(name) {
     this.name = name;

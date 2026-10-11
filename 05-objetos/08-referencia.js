@@ -1,6 +1,4 @@
-// Lección 56: Valor y referencia
-// Primitivos (string, number, boolean, null, undefined): se COPIAN
-// Por referencia (objetos, arrays, funciones): se guarda la DIRECCIÓN en memoria
+
 
 // dos objetos vacíos tienen direcciones distintas
 const b = {};

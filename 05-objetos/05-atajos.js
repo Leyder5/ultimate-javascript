@@ -1,4 +1,4 @@
-// Lección 53: Atajos constructores
+
 // {} es un atajo de JavaScript para llamar al constructor de objetos
 
 const obj = {};
@@ -43,4 +43,4 @@ console.log(eval(s2));              // [String: '1 + 1'] (lo deja igual)
 // (también existe en Number y Boolean)
 console.log(eval(s2.valueOf()));    // 2
 
-// conclusión: utiliza siempre los literales
+

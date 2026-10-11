@@ -22,12 +22,10 @@
 //     },
 // };
 
-// Convención: camelCase y por lo general comienzan con crear o create
+
 function crearUsuario(name, email) {
-    // se retorna el objeto inmediatamente, no hace falta una variable
+
     return {
-        // si la variable se llama igual que la propiedad
-        // se puede escribir solo email en vez de email: email
         email,
         name,
         activo: true,
@@ -40,5 +38,5 @@ function crearUsuario(name, email) {
 let user1 = crearUsuario('Nicolas', 'nico@holamundo.io');
 let user2 = crearUsuario('Felipe', 'felipe@holamundo.io');
 
-// misma estructura de propiedades, pero con valores distintos
+
 console.log(user1, user2);

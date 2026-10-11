@@ -1,5 +1,4 @@
-// Lección 55: Function
-// Las funciones tienen un constructor (Function) y métodos como call y apply
+
 
 function Punto(x, y) {
     this.x = x;

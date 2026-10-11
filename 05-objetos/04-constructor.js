@@ -1,6 +1,3 @@
-// Lección 52: Constructor functions
-// Convención: UpperCamelCase (PascalCase), la primera letra con mayúscula
-// y el nombre es el del recurso que queremos crear
 
 // Objeto que queremos crear:
 // {
@@ -17,9 +14,6 @@ function Usuario() {
     };
 }
 
-// sin new no se crea nada: Usuario no retorna nada
-// let usuario = Usuario();
-// console.log(usuario);   // undefined
 
 let usuario = new Usuario();
 console.log(usuario);   // Usuario { id: 1, recuperarClave: [Function] }

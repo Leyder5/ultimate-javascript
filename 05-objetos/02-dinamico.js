@@ -3,7 +3,6 @@
 // propiedades y cambiar sus valores en cualquier momento
 
 // si el objeto tiene pocas propiedades se puede escribir en una sola línea
-// (siempre consultarlo con tu equipo)
 const user = { id: 1 };
 
 // aunque user es const, sí podemos agregarle propiedades
@@ -16,7 +15,7 @@ user.guardar = function () {
 user.guardar();   // guardando Nicolás
 
 // lo que NO podemos hacer es reasignar la constante
-// user = 1;   // TypeError: Assignment to constant variable.
+// user = 1;   // TypeError
 
 // con delete eliminamos propiedades
 delete user.name;

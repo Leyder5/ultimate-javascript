@@ -1,6 +1,3 @@
-// Lección 58: Clonando objetos
-// Para que dos variables no apunten necesariamente al mismo objeto
-
 const punto = {
     x: 10,
     y: 15,

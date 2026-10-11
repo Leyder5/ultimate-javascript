@@ -1,5 +1,3 @@
-// Lección 77: Fat arrow functions
-
 // función normal
 // function hola() {
 //     return 'Hola mundo';

@@ -16,6 +16,6 @@ console.log(mayores);   // Felipe y Fernanda
 
 // en JavaScript no existe el método opuesto reject
 // const menores = usuarios.reject(u => u.edad > 17);   // TypeError
-// hay que seguir usando filter y cambiar la lógica
+
 const menores = usuarios.filter(u => u.edad < 18);
 console.log(menores);   // Nico y Chanchito

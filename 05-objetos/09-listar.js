@@ -1,5 +1,3 @@
-// Lección 57: Listar propiedades
-// Como los objetos son dinámicos, una propiedad podría haber sido eliminada
 
 const punto = {
     x: 10,
